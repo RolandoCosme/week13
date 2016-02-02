@@ -1,0 +1,57 @@
+.title1{
+  font-family: 'Architects Daughter', cursive;
+  background-color: #546d5a;
+  text-align: center;
+}
+
+.container1{
+  background: #f9f6ef;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+
+.table1{
+  background-color: #f48b52;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+
+}
+
+.tr2{
+  background-color: #b1dfd5;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+.container2{
+  background: #907759;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+.aside1{
+  background-color: #d6d6d6;
+  font-family: 'Architects Daughter', cursive;
+  display: inline-block;
+  float: right;
+
+}
+
+.aside2{
+  background-color: #d6d6d6;
+  font-family: 'Architects Daughter', cursive;
+  display: inline-block;
+  float: left;
+
+}
+
+.aside3{
+  background-color: #d6d6d6;
+  font-family: 'Architects Daughter', cursive;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  margin-left: 100px;
+}
+
